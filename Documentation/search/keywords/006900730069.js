@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("isi",["Function"],[["IsInventoryMenuOpen",,[[,,,,0,"File:UnforgivingDevicesMain.psc:IsInventoryMenuOpen"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("isi",["Function"],[["IsInFurniture",,[[,,,,0,"File:UD_AnimationManagerScript.psc:IsInFurniture"]]],["IsInventoryMenuOpen",,[[,,,,0,"File:UnforgivingDevicesMain.psc:IsInventoryMenuOpen"]]]]);

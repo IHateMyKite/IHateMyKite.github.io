@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hid",["Function"],[["hideWidget",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:hideWidget"]]]]);

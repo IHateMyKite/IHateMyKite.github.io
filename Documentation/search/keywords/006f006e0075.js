@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("onu",["Function"],[["OnUIReload",,[[,,,,0,"File:UD_WidgetControl.psc:OnUIReload"]]],["OnUpdateHourPost",,[[,,,,0,"File2:RenderDeviceTemplate.psc:OnUpdateHourPost"]]],["OnUpdateHourPre",,[[,,,,0,"File2:RenderDeviceTemplate.psc:OnUpdateHourPre"]]],["OnUpdatePre",,[[,,,,0,"File2:RenderDeviceTemplate.psc:OnUpdatePre"]]]]);

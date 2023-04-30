@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ons",["Function"],[["onSpecialButtonPressed",,[[,,,,0,"File2:RenderDeviceTemplate.psc:onSpecialButtonPressed"]]],["onSpecialButtonReleased",,[[,,,,0,"File2:RenderDeviceTemplate.psc:onSpecialButtonReleased"]]],["onSpellHitPre",,[[,,,,0,"File2:RenderDeviceTemplate.psc:onSpellHitPre"]]]]);

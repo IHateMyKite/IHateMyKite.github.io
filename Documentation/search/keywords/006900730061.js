@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isa",["Function"],[["IsAnimating",,[[,,,,0,"File:UD_AnimationManagerScript.psc:IsAnimating"]]]]);

@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("sto",["Function"],[["StopAllVibrators",,[[,,,,0,"File:UDCustomDeviceMain.psc:StopAllVibrators"]]],["StopMinigame",,[[,,,,0,"File:UDCustomDeviceMain.psc:StopMinigame"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("sto",["Function"],[["StopAllVibrators",,[[,,,,0,"File:UDCustomDeviceMain.psc:StopAllVibrators"]]],["StopAnimation",,[[,,,,0,"File:UD_AnimationManagerScript.psc:StopAnimation"]]],["StopMinigame",,[[,,,,0,"File:UDCustomDeviceMain.psc:StopMinigame"]]]]);

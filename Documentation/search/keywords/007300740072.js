@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("str",["Function"],[["struggleMinigame",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:struggleMinigame"]]],["StruggleMinigameAllowed",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:StruggleMinigameAllowed"]]],["struggleMinigameWH",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:struggleMinigameWH"]]]]);

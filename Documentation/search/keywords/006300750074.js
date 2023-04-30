@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cut",["Function"],[["cuttingMinigame",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:cuttingMinigame"]]],["CuttingMinigameAllowed",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:CuttingMinigameAllowed"]]],["cuttingMinigameWH",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:cuttingMinigameWH"]]]]);

@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("isl",["Function"],[["IsLockpickingMenuOpen",,[[,,,,0,"File:UnforgivingDevicesMain.psc:IsLockpickingMenuOpen"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("isl",["Function"],[["IsLockpickingMenuOpen",,[[,,,,0,"File:UnforgivingDevicesMain.psc:IsLockpickingMenuOpen"]]],["isLoose",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:isLoose"]]]]);

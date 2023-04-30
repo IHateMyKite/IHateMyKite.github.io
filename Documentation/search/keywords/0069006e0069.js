@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ini",["Function"],[["InitPost",,[[,,,,0,"File2:RenderDeviceTemplate.psc:InitPost"]]],["InitPostPost",,[[,,,,0,"File2:RenderDeviceTemplate.psc:InitPostPost"]]],["InitWidgetsRequest",,[[,,,,0,"File:UD_WidgetControl.psc:InitWidgetsRequest"]]]]);

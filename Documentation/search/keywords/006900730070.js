@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isp",["Function"],[["IsPaused",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:IsPaused"]]],["isPiercing",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:isPiercing"]]],["isPlug",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:isPlug"]]]]);

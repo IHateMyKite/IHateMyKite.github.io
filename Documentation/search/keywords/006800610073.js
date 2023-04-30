@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("has",["Function"],[["hasAnyUD",,[[,,,,0,"File:UnforgivingDevicesMain.psc:hasAnyUD"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("has",["Function"],[["hasAnyUD",,[[,,,,0,"File:UnforgivingDevicesMain.psc:hasAnyUD"]]],["hasModifier",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:hasModifier"]]]]);

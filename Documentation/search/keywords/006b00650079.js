@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("key",["Function"],[["KeyIsGeneric",,[[,,,,0,"File:UDCustomDeviceMain.psc:KeyIsGeneric"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("key",["Function"],[["KeyIsGeneric",,[[,,,,0,"File:UDCustomDeviceMain.psc:KeyIsGeneric"]]],["keyMinigame",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:keyMinigame"]]],["keyMinigameWH",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:keyMinigameWH"]]]]);

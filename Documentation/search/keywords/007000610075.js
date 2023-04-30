@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pau",["Function"],[["PauseMinigame",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:PauseMinigame"]]]]);

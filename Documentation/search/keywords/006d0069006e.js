@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("min",["Function"],[["minigame",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:minigame"]]],["minigamePostcheck",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:minigamePostcheck"]]],["minigamePrecheck",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:minigamePrecheck"]]]]);

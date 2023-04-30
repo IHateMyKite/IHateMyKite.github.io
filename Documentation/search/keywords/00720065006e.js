@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ren",["File"],[["RenderDeviceTemplate",,[[,,,,0,"File2:RenderDeviceTemplate.psc:RenderDeviceTemplate"]]]]);

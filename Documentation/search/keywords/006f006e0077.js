@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("onw",["Function"],[["onWeaponHitPost",,[[,,,,0,"File2:RenderDeviceTemplate.psc:onWeaponHitPost"]]],["onWeaponHitPre",,[[,,,,0,"File2:RenderDeviceTemplate.psc:onWeaponHitPre"]]]]);

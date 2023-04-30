@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("iss",["Function"],[["isSharp",,[[,,,,0,"File:UDCustomDeviceMain.psc:isSharp"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("iss",["Function"],[["isSentient",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:isSentient"]]],["isSharp",,[[,,,,0,"File:UDCustomDeviceMain.psc:isSharp"]]]]);

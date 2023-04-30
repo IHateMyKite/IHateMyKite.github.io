@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pro",["Function"],[["proccesSpecialMenu",,[[,,,,0,"File2:RenderDeviceTemplate.psc:proccesSpecialMenu"]]],["proccesSpecialMenuWH",,[[,,,,0,"File2:RenderDeviceTemplate.psc:proccesSpecialMenuWH"]]]]);

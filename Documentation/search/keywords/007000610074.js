@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pat",["Function"],[["patchDevice",,[[,,,,0,"File2:RenderDeviceTemplate.psc:patchDevice"]]]]);

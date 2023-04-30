@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nth",["Function"],[["NthLockMinigamesAllowed",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:NthLockMinigamesAllowed"]]]]);

@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("rea",["Function"],[["Ready",,[[,,,,0,"File:UD_API.psc:Ready"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("rea",["Variable"],[["Ready",,[[,,,,0,"File:UD_AnimationManagerScript.psc:Ready"]]]]);

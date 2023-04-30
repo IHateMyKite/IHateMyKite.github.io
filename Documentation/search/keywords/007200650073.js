@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("res",["Function"],[["resetCondVar",,[[,,,,0,"File:UDCustomDeviceMain.psc:resetCondVar"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("res",["Function"],[["resetCondVar",,[[,,,,0,"File:UDCustomDeviceMain.psc:resetCondVar"]]],["resetCooldown",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:resetCooldown"]]],["resetMinigameValues",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:resetMinigameValues"]]]]);

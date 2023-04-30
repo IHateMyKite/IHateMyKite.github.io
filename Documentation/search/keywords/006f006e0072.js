@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("onr",["Function"],[["onRemoveDevicePost",,[[,,,,0,"File2:RenderDeviceTemplate.psc:onRemoveDevicePost"]]],["OnRemoveDevicePre",,[[,,,,0,"File2:RenderDeviceTemplate.psc:OnRemoveDevicePre"]]]]);

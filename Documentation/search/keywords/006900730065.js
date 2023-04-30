@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("ise",["Function"],[["IsEnabled",,[[,,,,0,"File:UnforgivingDevicesMain.psc:IsEnabled"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("ise",["Function"],[["IsEnabled",,[[,,,,0,"File:UnforgivingDevicesMain.psc:IsEnabled"]]],["isEscapable",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:isEscapable"]]]]);

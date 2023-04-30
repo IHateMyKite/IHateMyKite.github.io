@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("isu",["Function"],[["IsUpdating",,[[,,,,0,"File:UnforgivingDevicesMain.psc:IsUpdating"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("isu",["Variable","Function"],[["IsUnlocked",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:IsUnlocked"]]],["IsUpdating",,[[,,,,1,"File:UnforgivingDevicesMain.psc:IsUpdating"]]]]);

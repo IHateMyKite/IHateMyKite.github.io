@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tig",["Function"],[["tightUpDevice",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:tightUpDevice"]]]]);
