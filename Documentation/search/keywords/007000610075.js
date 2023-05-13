@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("pau",["Function"],[["PauseMinigame",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:PauseMinigame"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("pau",["Function","Variable"],[["PauseMinigame",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:PauseMinigame"]]],["pauseVibFor",,[[,,,,1,"File:UD_CustomVibratorBase_RenderScript.psc:pauseVibFor"]]]]);

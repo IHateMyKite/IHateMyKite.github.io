@@ -26,7 +26,7 @@
 <a name="libsp"></a><a name="Topic61"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">libsp</div>
  <div id="NDPrototype61" class="NDPrototype"><div class="PSection PPlainSection">zadlibs_UDPatch property libsp hidden</div></div>
- <div class="CBody"><p>Patched version of <a href="../index.html#File:UD_CustomDevice_RenderScript.psc:libs" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,382);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >libs</a>. Should be used for calling DD functions, instead of <a href="../index.html#File:UD_CustomDevice_RenderScript.psc:libs" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,382);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >libs</a></p></div>
+ <div class="CBody"><p>Patched version of <a href="../index.html#File:UD_CustomDevice_RenderScript.psc:libs" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,428);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >libs</a>. Should be used for calling DD functions, instead of <a href="../index.html#File:UD_CustomDevice_RenderScript.psc:libs" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,428);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >libs</a></p></div>
 </div>
 
 <a name="libsx"></a><a name="Topic62"></a><div class="CTopic TVariable LPapyrus">
@@ -600,43 +600,48 @@
  <div class="CBody"><p>This function check if any menu is open. It is much faster then its UI couterpart</p><div class="CHeading">Returns</div><p>True if any menu is open</p></div>
 </div>
 
-<a name="IsMenuOpenID"></a><a name="Topic160"></a><div class="CTopic TFunction LPapyrus">
- <div class="CTitle">IsMenuOpenID</div>
- <div id="NDPrototype160" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Bool Function IsMenuOpenID(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName last">aiID</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
- <div class="CBody"><p>This function check if specific menu is open</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">aiID<div class="CDLParameterType"><span class="SHKeyword">int</span></div></td><td class="CDLDefinition"><p>ID of menu which should be checked. See <a href="../index.html#File:UD_MenuChecker.psc:Menus_ID" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,294);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Menus ID</a></p></td></tr></table><div class="CHeading">Returns</div><p>True if menu with aiID is open</p></div>
+<a name="IsMenuOpenRaw"></a><a name="Topic160"></a><div class="CTopic TFunction LPapyrus">
+ <div class="CTitle">IsMenuOpenRaw</div>
+ <div class="CBody"><p>This function check if any menu is open. Ignores all checks.</p><div class="CHeading">Returns</div><p>True if ANY menu is open</p></div>
 </div>
 
-<a name="IsContainerMenuOpen"></a><a name="Topic161"></a><div class="CTopic TFunction LPapyrus">
+<a name="IsMenuOpenID"></a><a name="Topic161"></a><div class="CTopic TFunction LPapyrus">
+ <div class="CTitle">IsMenuOpenID</div>
+ <div id="NDPrototype161" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Bool Function IsMenuOpenID(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName last">aiID</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div class="CBody"><p>This function check if specific menu is open</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">aiID<div class="CDLParameterType"><span class="SHKeyword">int</span></div></td><td class="CDLDefinition"><p>ID of menu which should be checked. See <a href="../index.html#File:UD_MenuChecker.psc:Menus_ID" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,296);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Menus ID</a></p></td></tr></table><div class="CHeading">Returns</div><p>True if menu with aiID is open</p></div>
+</div>
+
+<a name="IsContainerMenuOpen"></a><a name="Topic162"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">IsContainerMenuOpen</div>
- <div id="NDPrototype161" class="NDPrototype"><div class="PSection PPlainSection">Bool Function IsContainerMenuOpen()</div></div>
+ <div id="NDPrototype162" class="NDPrototype"><div class="PSection PPlainSection">Bool Function IsContainerMenuOpen()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>True if <b>Container</b> menu is open</p></div>
 </div>
 
-<a name="IsLockpickingMenuOpen"></a><a name="Topic162"></a><div class="CTopic TFunction LPapyrus">
+<a name="IsLockpickingMenuOpen"></a><a name="Topic163"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">IsLockpickingMenuOpen</div>
- <div id="NDPrototype162" class="NDPrototype"><div class="PSection PPlainSection">Bool Function IsLockpickingMenuOpen()</div></div>
+ <div id="NDPrototype163" class="NDPrototype"><div class="PSection PPlainSection">Bool Function IsLockpickingMenuOpen()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>True if <b>Lockpicking</b> menu is open</p></div>
 </div>
 
-<a name="IsInventoryMenuOpen"></a><a name="Topic163"></a><div class="CTopic TFunction LPapyrus">
+<a name="IsInventoryMenuOpen"></a><a name="Topic164"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">IsInventoryMenuOpen</div>
- <div id="NDPrototype163" class="NDPrototype"><div class="PSection PPlainSection">Bool Function IsInventoryMenuOpen()</div></div>
+ <div id="NDPrototype164" class="NDPrototype"><div class="PSection PPlainSection">Bool Function IsInventoryMenuOpen()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>True if <b>Inventory</b> menu is open</p></div>
 </div>
 
-<a name="IsMessageboxOpen"></a><a name="Topic164"></a><div class="CTopic TFunction LPapyrus">
+<a name="IsMessageboxOpen"></a><a name="Topic165"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">IsMessageboxOpen</div>
- <div id="NDPrototype164" class="NDPrototype"><div class="PSection PPlainSection">Bool Function IsMessageboxOpen()</div></div>
+ <div id="NDPrototype165" class="NDPrototype"><div class="PSection PPlainSection">Bool Function IsMessageboxOpen()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>True if <b>Messagebox</b> menu is open</p></div>
 </div>
 
-<a name="Static_slos"></a><a name="Topic165"></a><div class="CTopic TGroup LPapyrus">
+<a name="Static_slos"></a><a name="Topic166"></a><div class="CTopic TGroup LPapyrus">
  <div class="CTitle">Static slos</div>
 </div>
 
-<a name="GetStaticSlots"></a><a name="Topic166"></a><div class="CTopic TFunction LPapyrus last">
+<a name="GetStaticSlots"></a><a name="Topic167"></a><div class="CTopic TFunction LPapyrus last">
  <div class="CTitle">GetStaticSlots</div>
- <div id="NDPrototype166" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">UD_StaticNPCSlots Function GetStaticSlots(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">String&nbsp;</td><td class="PName last">asName</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype167" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">UD_StaticNPCSlots Function GetStaticSlots(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">String&nbsp;</td><td class="PName last">asName</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">asName<div class="CDLParameterType">String</div></td><td class="CDLDefinition"><p>Name of static slots</p></td></tr></table><div class="CHeading">Returns</div><p>Static slots</p></div>
 </div>
 
