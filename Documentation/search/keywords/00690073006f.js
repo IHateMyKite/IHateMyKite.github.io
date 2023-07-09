@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("iso",["Function"],[["isOrgasming",,[[,,,,0,"File:UD_OrgasmManager.psc:isOrgasming"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("iso",["Function"],[["isOrgasmExhaustedMax",,[[,,,,0,"File:UD_OrgasmManager.psc:isOrgasmExhaustedMax"]]],["isOrgasming",,[[,,,,0,"File:UD_OrgasmManager.psc:isOrgasming"]]]]);

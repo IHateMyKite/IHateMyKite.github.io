@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("pri",["Function","Variable"],[["Print",,[[,,,,0,"File:UD_API.psc:Print"]]],["PrintVibMessage_Start",,[[,,,,1,"File:UD_CustomVibratorBase_RenderScript.psc:PrintVibMessage_Start"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("pri",["Function"],[["Print",,[[,,,,0,"File:UD_API.psc:Print"]]],["PrintModStatus",,[[,,,,0,"File:UnforgivingDevicesMain.psc:PrintModStatus"]]],["PrintVibMessage_Start",,[[,,,,0,"File:UD_CustomVibratorBase_RenderScript.psc:PrintVibMessage_Start"]]]]);

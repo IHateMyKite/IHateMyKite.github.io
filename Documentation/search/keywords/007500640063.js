@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("udc",["Variable","File"],[["UDCDmain",,[[,,,,0,"File:UD_API.psc:UDCDmain"]]],["UDCustomDeviceMain",,[[,,,,1,"File:UDCustomDeviceMain.psc:UDCustomDeviceMain"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("udc",["Variable","File"],[["UDCDmain",,[[,,,,0,"File:UD_API.psc:UDCDmain"]]],["UDCONF",,[[,,,,0,"File:UnforgivingDevicesMain.psc:UDCONF"]]],["UDCustomDeviceMain",,[[,,,,1,"File:UDCustomDeviceMain.psc:UDCustomDeviceMain"]]]]);

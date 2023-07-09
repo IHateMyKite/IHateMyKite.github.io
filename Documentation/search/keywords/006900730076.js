@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("isv",["Variable"],[["isVibrating",,[[,,,,0,"File:UD_CustomVibratorBase_RenderScript.psc:isVibrating"]]],["isVibratingForever",,[[,,,,0,"File:UD_CustomVibratorBase_RenderScript.psc:isVibratingForever"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("isv",["Function"],[["isVibPaused",,[[,,,,0,"File:UD_CustomVibratorBase_RenderScript.psc:isVibPaused"]]],["isVibrating",,[[,,,,0,"File:UD_CustomVibratorBase_RenderScript.psc:isVibrating"]]],["isVibratingForever",,[[,,,,0,"File:UD_CustomVibratorBase_RenderScript.psc:isVibratingForever"]]]]);
