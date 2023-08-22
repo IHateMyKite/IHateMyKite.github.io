@@ -8,259 +8,259 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="UD_CustomVibratorBase_RenderScript"></a><a name="Topic318"></a><div class="CTopic TFile LPapyrus first">
+<a name="UD_CustomVibratorBase_RenderScript"></a><a name="Topic320"></a><div class="CTopic TFile LPapyrus first">
  <div class="CTitle">UD_CustomVibratorBase_RenderScript</div>
- <div id="NDPrototype318" class="NDPrototype"><div class="PSection PPlainSection">Scriptname UD_CustomVibratorBase_RenderScript <span class="SHKeyword">extends</span> UD_CustomDevice_RenderScript</div></div>
- <div class="CBody"><p>This script works as base of all devices which can vibrate</p><p>As it is extending <a href="../index.html#File:UD_CustomDevice_RenderScript.psc:UD_CustomDevice_RenderScript" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,483);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >UD_CustomDevice_RenderScript</a>, most functions and properties will behave same</p></div>
+ <div id="NDPrototype320" class="NDPrototype"><div class="PSection PPlainSection">Scriptname UD_CustomVibratorBase_RenderScript <span class="SHKeyword">extends</span> UD_CustomDevice_RenderScript</div></div>
+ <div class="CBody"><p>This script works as base of all devices which can vibrate</p><p>As it is extending <a href="../index.html#File:UD_CustomDevice_RenderScript.psc:UD_CustomDevice_RenderScript" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,376);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >UD_CustomDevice_RenderScript</a>, most functions and properties will behave same</p></div>
 </div>
 
-<a name="Vibration_customization"></a><a name="Topic319"></a><div class="CTopic TGroup LPapyrus">
+<a name="Vibration_customization"></a><a name="Topic321"></a><div class="CTopic TGroup LPapyrus">
  <div class="CTitle">Vibration customization</div>
 </div>
 
-<a name="UD_VibDuration"></a><a name="Topic320"></a><div class="CTopic TVariable LPapyrus">
+<a name="UD_VibDuration"></a><a name="Topic322"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">UD_VibDuration</div>
- <div id="NDPrototype320" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> property UD_VibDuration = <span class="SHNumber">60</span> auto</div></div>
+ <div id="NDPrototype322" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> property UD_VibDuration = <span class="SHNumber">60</span> auto</div></div>
  <div class="CBody"><p>Vibration duration in seconds. Negative value means that vibrations will last forever, or untill the vibrator is turned off manually by script</p></div>
 </div>
 
-<a name="UD_VibStrength"></a><a name="Topic321"></a><div class="CTopic TVariable LPapyrus">
+<a name="UD_VibStrength"></a><a name="Topic323"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">UD_VibStrength</div>
- <div id="NDPrototype321" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Property UD_VibStrength = <span class="SHNumber">-1</span> auto</div></div>
+ <div id="NDPrototype323" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Property UD_VibStrength = <span class="SHNumber">-1</span> auto</div></div>
  <div class="CBody"><p>Strength of vibrator. The bigger this value is, the more will vibrator increase orgasm and arousal rate while turned on</p><p>if set to -1, the value will be calculated from keyword</p></div>
 </div>
 
-<a name="UD_ArousalMult"></a><a name="Topic322"></a><div class="CTopic TVariable LPapyrus">
+<a name="UD_ArousalMult"></a><a name="Topic324"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">UD_ArousalMult</div>
- <div id="NDPrototype322" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">float</span> property UD_ArousalMult = <span class="SHNumber">1.0</span> auto</div></div>
+ <div id="NDPrototype324" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">float</span> property UD_ArousalMult = <span class="SHNumber">1.0</span> auto</div></div>
  <div class="CBody"><p>Arousal multiplier, multiplies arousal which is added while vibrator is turned on</p></div>
 </div>
 
-<a name="UD_OrgasmMult"></a><a name="Topic323"></a><div class="CTopic TVariable LPapyrus">
+<a name="UD_OrgasmMult"></a><a name="Topic325"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">UD_OrgasmMult</div>
- <div id="NDPrototype323" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">float</span> property UD_OrgasmMult = <span class="SHNumber">1.0</span> auto</div></div>
+ <div id="NDPrototype325" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">float</span> property UD_OrgasmMult = <span class="SHNumber">1.0</span> auto</div></div>
  <div class="CBody"><p>Orgasm multiplier, multiples orgasm rate which is applied</p></div>
 </div>
 
-<a name="UD_EdgingMode"></a><a name="Topic324"></a><div class="CTopic TVariable LPapyrus">
+<a name="UD_EdgingMode"></a><a name="Topic326"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">UD_EdgingMode</div>
- <div id="NDPrototype324" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Property UD_EdgingMode = <span class="SHNumber">-1</span> auto</div></div>
+ <div id="NDPrototype326" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Property UD_EdgingMode = <span class="SHNumber">-1</span> auto</div></div>
  <div class="CBody"><table class="CDefinitionList"><tr><td class="CDLEntry">0</td><td class="CDLDefinition"><p>normal (no edging)</p></td></tr><tr><td class="CDLEntry">1</td><td class="CDLDefinition"><p>Edging only</p></td></tr><tr><td class="CDLEntry">2</td><td class="CDLDefinition"><p>Edging random</p></td></tr></table></div>
 </div>
 
-<a name="UD_EdgingThreshold"></a><a name="Topic325"></a><div class="CTopic TVariable LPapyrus">
+<a name="UD_EdgingThreshold"></a><a name="Topic327"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">UD_EdgingThreshold</div>
- <div id="NDPrototype325" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">float</span> Property UD_EdgingThreshold = <span class="SHNumber">0.75</span> auto</div></div>
- <div class="CBody"><p>How big orgasm progress needs to be for vibrator to stop vibrating if <a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:UD_EdgingMode" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,324);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >UD_EdgingMode</a> is 1</p></div>
+ <div id="NDPrototype327" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">float</span> Property UD_EdgingThreshold = <span class="SHNumber">0.75</span> auto</div></div>
+ <div class="CBody"><p>How big orgasm progress needs to be for vibrator to stop vibrating if <a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:UD_EdgingMode" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,326);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >UD_EdgingMode</a> is 1</p></div>
 </div>
 
-<a name="UD_Shocking"></a><a name="Topic326"></a><div class="CTopic TVariable LPapyrus">
+<a name="UD_Shocking"></a><a name="Topic328"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">UD_Shocking</div>
- <div id="NDPrototype326" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Property UD_Shocking = False auto</div></div>
+ <div id="NDPrototype328" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Property UD_Shocking = False auto</div></div>
  <div class="CBody"><p>Vibrator will also shock actor when vibrate is called</p><p>If it can't vibrate, shock will still happen</p></div>
 </div>
 
-<a name="UD_Chaos"></a><a name="Topic327"></a><div class="CTopic TVariable LPapyrus">
+<a name="UD_Chaos"></a><a name="Topic329"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">UD_Chaos</div>
- <div id="NDPrototype327" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Property UD_Chaos = <span class="SHNumber">0</span> auto</div></div>
+ <div id="NDPrototype329" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Property UD_Chaos = <span class="SHNumber">0</span> auto</div></div>
  <div class="CBody"><p>Chance in percent that vibrator will change its strength and duration on every update</p></div>
 </div>
 
-<a name="UD_VibSound"></a><a name="Topic328"></a><div class="CTopic TVariable LPapyrus">
+<a name="UD_VibSound"></a><a name="Topic330"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">UD_VibSound</div>
- <div id="NDPrototype328" class="NDPrototype"><div class="PSection PPlainSection">Sound Property UD_VibSound auto</div></div>
+ <div id="NDPrototype330" class="NDPrototype"><div class="PSection PPlainSection">Sound Property UD_VibSound auto</div></div>
  <div class="CBody"><p>Custom vibration sound that will start playing when vibration start</p><p>If value is not filled, or none, the default DD vibration sound will be used</p></div>
 </div>
 
-<a name="API"></a><a name="Topic329"></a><div class="CTopic TGroup LPapyrus">
+<a name="API"></a><a name="Topic331"></a><div class="CTopic TGroup LPapyrus">
  <div class="CTitle">API</div>
 </div>
 
-<a name="getCurrentVibStrenth"></a><a name="Topic330"></a><div class="CTopic TFunction LPapyrus">
+<a name="getCurrentVibStrenth"></a><a name="Topic332"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">getCurrentVibStrenth</div>
- <div id="NDPrototype330" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Function getCurrentVibStrenth()</div></div>
+ <div id="NDPrototype332" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Function getCurrentVibStrenth()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>Current vibration strength</p></div>
 </div>
 
-<a name="getCurrentZadVibStrenth"></a><a name="Topic331"></a><div class="CTopic TFunction LPapyrus">
+<a name="getCurrentZadVibStrenth"></a><a name="Topic333"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">getCurrentZadVibStrenth</div>
- <div id="NDPrototype331" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Function getCurrentZadVibStrenth()</div></div>
+ <div id="NDPrototype333" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Function getCurrentZadVibStrenth()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>Current vibration strength converted to Zad value. Value will be integer in range 0 to 5</p></div>
 </div>
 
-<a name="canVibrate"></a><a name="Topic332"></a><div class="CTopic TFunction LPapyrus">
+<a name="canVibrate"></a><a name="Topic334"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">canVibrate</div>
- <div id="NDPrototype332" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Function canVibrate()</div></div>
+ <div id="NDPrototype334" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Function canVibrate()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>True if device can vibrate</p></div>
 </div>
 
-<a name="isVibrating"></a><a name="Topic333"></a><div class="CTopic TFunction LPapyrus">
+<a name="isVibrating"></a><a name="Topic335"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">isVibrating</div>
- <div id="NDPrototype333" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Function isVibrating()</div></div>
+ <div id="NDPrototype335" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Function isVibrating()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>True if device is currently vibrating</p></div>
 </div>
 
-<a name="isVibratingForever"></a><a name="Topic334"></a><div class="CTopic TFunction LPapyrus">
+<a name="isVibratingForever"></a><a name="Topic336"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">isVibratingForever</div>
- <div id="NDPrototype334" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Function isVibratingForever()</div></div>
- <div class="CBody"><div class="CHeading">Returns</div><p>True if device is vibrating forever (<a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:UD_VibDuration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,320);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >UD_VibDuration</a> &lt; 0)</p></div>
+ <div id="NDPrototype336" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Function isVibratingForever()</div></div>
+ <div class="CBody"><div class="CHeading">Returns</div><p>True if device is vibrating forever (<a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:UD_VibDuration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,322);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >UD_VibDuration</a> &lt; 0)</p></div>
 </div>
 
-<a name="getRemainingVibrationDuration"></a><a name="Topic335"></a><div class="CTopic TFunction LPapyrus">
+<a name="getRemainingVibrationDuration"></a><a name="Topic337"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">getRemainingVibrationDuration</div>
- <div id="NDPrototype335" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Function getRemainingVibrationDuration()</div></div>
+ <div id="NDPrototype337" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">int</span> Function getRemainingVibrationDuration()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>Remaining duration of vibrator. In case the vibrator is vibrating forever, the duration will be negative</p></div>
 </div>
 
-<a name="getRemainingVibrationDurationPer"></a><a name="Topic336"></a><div class="CTopic TFunction LPapyrus">
+<a name="getRemainingVibrationDurationPer"></a><a name="Topic338"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">getRemainingVibrationDurationPer</div>
- <div id="NDPrototype336" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">float</span> Function getRemainingVibrationDurationPer()</div></div>
+ <div id="NDPrototype338" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">float</span> Function getRemainingVibrationDurationPer()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>Remaining duration of vibrator as relative value in range 0.0 to 1.0</p><p>In case the vibrator is vibrating forever, the returned value will be useless</p></div>
 </div>
 
-<a name="isVibPaused"></a><a name="Topic337"></a><div class="CTopic TFunction LPapyrus">
+<a name="isVibPaused"></a><a name="Topic339"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">isVibPaused</div>
- <div id="NDPrototype337" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Function isVibPaused()</div></div>
+ <div id="NDPrototype339" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Function isVibPaused()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>True if vibrations are currently paused</p></div>
 </div>
 
-<a name="pauseVibFor"></a><a name="Topic338"></a><div class="CTopic TFunction LPapyrus">
+<a name="pauseVibFor"></a><a name="Topic340"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">pauseVibFor</div>
- <div id="NDPrototype338" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function pauseVibFor(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName last">aiTime</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype340" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function pauseVibFor(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName last">aiTime</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Pause device vibration for passed time</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">aiTime<div class="CDLParameterType"><span class="SHKeyword">int</span></div></td><td class="CDLDefinition"><p>For how long to pause vib</p></td></tr></table></div>
 </div>
 
-<a name="stopVibrating"></a><a name="Topic339"></a><div class="CTopic TFunction LPapyrus">
+<a name="stopVibrating"></a><a name="Topic341"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">stopVibrating</div>
- <div id="NDPrototype339" class="NDPrototype"><div class="PSection PPlainSection">Function stopVibrating()</div></div>
+ <div id="NDPrototype341" class="NDPrototype"><div class="PSection PPlainSection">Function stopVibrating()</div></div>
  <div class="CBody"><p>Stops vibrator from vibrating. Function is not blocking</p></div>
 </div>
 
-<a name="stopVibratingAndWait"></a><a name="Topic340"></a><div class="CTopic TFunction LPapyrus">
+<a name="stopVibratingAndWait"></a><a name="Topic342"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">stopVibratingAndWait</div>
- <div id="NDPrototype340" class="NDPrototype"><div class="PSection PPlainSection">Function stopVibratingAndWait()</div></div>
+ <div id="NDPrototype342" class="NDPrototype"><div class="PSection PPlainSection">Function stopVibratingAndWait()</div></div>
  <div class="CBody"><p>Stops vibrator from vibrating. Function will be blocked untill vibrations end</p></div>
 </div>
 
-<a name="ForceStrength"></a><a name="Topic341"></a><div class="CTopic TFunction LPapyrus">
+<a name="ForceStrength"></a><a name="Topic343"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">ForceStrength</div>
- <div id="NDPrototype341" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function ForceStrength(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName last">aiStrenth</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype343" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function ForceStrength(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName last">aiStrenth</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Change vibration strength to new value, and update both orgasm rate and arousal rate</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">aiStrenth<div class="CDLParameterType"><span class="SHKeyword">int</span></div></td><td class="CDLDefinition"><p>new strength</p></td></tr></table></div>
 </div>
 
-<a name="ForceModStrength"></a><a name="Topic342"></a><div class="CTopic TFunction LPapyrus">
+<a name="ForceModStrength"></a><a name="Topic344"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">ForceModStrength</div>
- <div id="NDPrototype342" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function ForceModStrength(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">float</span>&nbsp;</td><td class="PName last">afModifier</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
- <div class="CBody"><p>Change vibration strength by passed modifer. Uses <a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:UD_VibStrength" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,321);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >UD_VibStrength</a> as base</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">afModifier<div class="CDLParameterType"><span class="SHKeyword">float</span></div></td><td class="CDLDefinition"><p>strength modifier as relative value (no percente)</p></td></tr></table></div>
+ <div id="NDPrototype344" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function ForceModStrength(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">float</span>&nbsp;</td><td class="PName last">afModifier</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div class="CBody"><p>Change vibration strength by passed modifer. Uses <a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:UD_VibStrength" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,323);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >UD_VibStrength</a> as base</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">afModifier<div class="CDLParameterType"><span class="SHKeyword">float</span></div></td><td class="CDLDefinition"><p>strength modifier as relative value (no percente)</p></td></tr></table></div>
 </div>
 
-<a name="ForceDuration"></a><a name="Topic343"></a><div class="CTopic TFunction LPapyrus">
+<a name="ForceDuration"></a><a name="Topic345"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">ForceDuration</div>
- <div id="NDPrototype343" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function ForceDuration(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName last">aiDuration</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype345" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function ForceDuration(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName last">aiDuration</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Change vibration duration to passed value</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">aiDuration<div class="CDLParameterType"><span class="SHKeyword">int</span></div></td><td class="CDLDefinition"><p>New duration</p></td></tr></table></div>
 </div>
 
-<a name="ForceModDuration"></a><a name="Topic344"></a><div class="CTopic TFunction LPapyrus">
+<a name="ForceModDuration"></a><a name="Topic346"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">ForceModDuration</div>
- <div id="NDPrototype344" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function ForceModDuration(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">float</span>&nbsp;</td><td class="PName last">afModifier</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
- <div class="CBody"><p>Change vibration duration by passed modifer. Uses <a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:UD_VibDuration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,320);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >UD_VibDuration</a> as base</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">afModifier<div class="CDLParameterType"><span class="SHKeyword">float</span></div></td><td class="CDLDefinition"><p>duration modifier</p></td></tr></table></div>
+ <div id="NDPrototype346" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function ForceModDuration(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">float</span>&nbsp;</td><td class="PName last">afModifier</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div class="CBody"><p>Change vibration duration by passed modifer. Uses <a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:UD_VibDuration" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,322);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >UD_VibDuration</a> as base</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">afModifier<div class="CDLParameterType"><span class="SHKeyword">float</span></div></td><td class="CDLDefinition"><p>duration modifier</p></td></tr></table></div>
 </div>
 
-<a name="addVibDuration"></a><a name="Topic345"></a><div class="CTopic TFunction LPapyrus">
+<a name="addVibDuration"></a><a name="Topic347"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">addVibDuration</div>
- <div id="NDPrototype345" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function addVibDuration(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName">aiValue</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype347" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function addVibDuration(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName">aiValue</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Increase vibration duration by passed value</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">aiValue<div class="CDLParameterType"><span class="SHKeyword">int</span></div></td><td class="CDLDefinition"><p>By how much will be duration increased</p></td></tr></table></div>
 </div>
 
-<a name="removeVibDuration"></a><a name="Topic346"></a><div class="CTopic TFunction LPapyrus">
+<a name="removeVibDuration"></a><a name="Topic348"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">removeVibDuration</div>
- <div id="NDPrototype346" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function removeVibDuration(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName">aiValue</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype348" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function removeVibDuration(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName">aiValue</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Decrease vibration duration by passed value</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">aiValue<div class="CDLParameterType"><span class="SHKeyword">int</span></div></td><td class="CDLDefinition"><p>By how much will be duration decreased</p></td></tr></table></div>
 </div>
 
-<a name="addVibStrength"></a><a name="Topic347"></a><div class="CTopic TFunction LPapyrus">
+<a name="addVibStrength"></a><a name="Topic349"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">addVibStrength</div>
- <div id="NDPrototype347" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function addVibStrength(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName">aiValue</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype349" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function addVibStrength(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName">aiValue</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Increase vibration strength by passed value, and update oragsm/arousal rate</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">aiValue<div class="CDLParameterType"><span class="SHKeyword">int</span></div></td><td class="CDLDefinition"><p>By how much will be strength increased</p></td></tr></table></div>
 </div>
 
-<a name="removeVibStrength"></a><a name="Topic348"></a><div class="CTopic TFunction LPapyrus">
+<a name="removeVibStrength"></a><a name="Topic350"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">removeVibStrength</div>
- <div id="NDPrototype348" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function removeVibStrength(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName">aiValue</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype350" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function removeVibStrength(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName">aiValue</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Decrease vibration strength by passed value, and update oragsm/arousal rate</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">aiValue<div class="CDLParameterType"><span class="SHKeyword">int</span></div></td><td class="CDLDefinition"><p>By how much will be strength decreased</p></td></tr></table></div>
 </div>
 
-<a name="forceEdgingMode"></a><a name="Topic349"></a><div class="CTopic TFunction LPapyrus">
+<a name="forceEdgingMode"></a><a name="Topic351"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">forceEdgingMode</div>
- <div id="NDPrototype349" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function forceEdgingMode(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName last">aiMode</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype351" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function forceEdgingMode(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">int</span>&nbsp;</td><td class="PName last">aiMode</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Change current edging mode to passed value</p><p>Do not use this function if device is not already vibrating</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">aiMode<div class="CDLParameterType"><span class="SHKeyword">int</span></div></td><td class="CDLDefinition"><p>New edging mode</p></td></tr></table></div>
 </div>
 
-<a name="vibrate"></a><a name="Topic350"></a><div class="CTopic TFunction LPapyrus">
+<a name="vibrate"></a><a name="Topic352"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">vibrate</div>
- <div id="NDPrototype350" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function vibrate(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">float</span>&nbsp;</td><td class="PName">afDurationMult</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1.0</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype352" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Function vibrate(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">float</span>&nbsp;</td><td class="PName">afDurationMult</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1.0</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Force device to vibrate. Is not blocking.</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">afDurationMult<div class="CDLParameterType"><span class="SHKeyword">float</span></div></td><td class="CDLDefinition"><p>Duration multiplier</p></td></tr></table></div>
 </div>
 
-<a name="VibPauseStart"></a><a name="Topic351"></a><div class="CTopic TFunction LPapyrus">
+<a name="VibPauseStart"></a><a name="Topic353"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">VibPauseStart</div>
- <div id="NDPrototype351" class="NDPrototype"><div class="PSection PPlainSection">Function VibPauseStart()</div></div>
- <div class="CBody"><p>Pause device vibration. Need to be unpaused manually with <a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:VibPauseStop" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,352);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >VibPauseStop</a></p></div>
+ <div id="NDPrototype353" class="NDPrototype"><div class="PSection PPlainSection">Function VibPauseStart()</div></div>
+ <div class="CBody"><p>Pause device vibration. Need to be unpaused manually with <a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:VibPauseStop" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,354);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >VibPauseStop</a></p></div>
 </div>
 
-<a name="VibPauseStop"></a><a name="Topic352"></a><div class="CTopic TFunction LPapyrus">
+<a name="VibPauseStop"></a><a name="Topic354"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">VibPauseStop</div>
- <div id="NDPrototype352" class="NDPrototype"><div class="PSection PPlainSection">Function VibPauseStop()</div></div>
- <div class="CBody"><p>Unpause device vibration. Need to be unpaused manually with <a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:VibPauseStop" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,352);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >VibPauseStop</a></p></div>
+ <div id="NDPrototype354" class="NDPrototype"><div class="PSection PPlainSection">Function VibPauseStop()</div></div>
+ <div class="CBody"><p>Unpause device vibration. Need to be unpaused manually with <a href="../index.html#File:UD_CustomVibratorBase_RenderScript.psc:VibPauseStop" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,354);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >VibPauseStop</a></p></div>
 </div>
 
-<a name="GetAppliedOrgasmRate"></a><a name="Topic353"></a><div class="CTopic TFunction LPapyrus">
+<a name="GetAppliedOrgasmRate"></a><a name="Topic355"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">GetAppliedOrgasmRate</div>
- <div id="NDPrototype353" class="NDPrototype"><div class="PSection PPlainSection">Float Function GetAppliedOrgasmRate()</div></div>
+ <div id="NDPrototype355" class="NDPrototype"><div class="PSection PPlainSection">Float Function GetAppliedOrgasmRate()</div></div>
  <div class="CBody"><div class="CHeading">Returns</div><p>Applied orgasm rate by vibrator</p></div>
 </div>
 
-<a name="Vibrator_Override"></a><a name="Topic354"></a><div class="CTopic TGroup LPapyrus">
+<a name="Vibrator_Override"></a><a name="Topic356"></a><div class="CTopic TGroup LPapyrus">
  <div class="CTitle">Vibrator Override</div>
- <div class="CBody"><p>Few functions which should be used in similiar matter as <a href="../index.html#File2:RenderDeviceTemplate.psc:Override" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,131);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Override</a></p></div>
+ <div class="CBody"><p>Few functions which should be used in similiar matter as <a href="../index.html#File2:RenderDeviceTemplate.psc:Override" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,4);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >Override</a></p></div>
 </div>
 
-<a name="OnVibrationStart"></a><a name="Topic355"></a><div class="CTopic TFunction LPapyrus">
+<a name="OnVibrationStart"></a><a name="Topic357"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">OnVibrationStart</div>
- <div id="NDPrototype355" class="NDPrototype"><div class="PSection PPlainSection">Function OnVibrationStart()</div></div>
+ <div id="NDPrototype357" class="NDPrototype"><div class="PSection PPlainSection">Function OnVibrationStart()</div></div>
  <div class="CBody"><p>Called when vibration start</p></div>
 </div>
 
-<a name="OnVibrationEnd"></a><a name="Topic356"></a><div class="CTopic TFunction LPapyrus">
+<a name="OnVibrationEnd"></a><a name="Topic358"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">OnVibrationEnd</div>
- <div id="NDPrototype356" class="NDPrototype"><div class="PSection PPlainSection">Function OnVibrationEnd()</div></div>
+ <div id="NDPrototype358" class="NDPrototype"><div class="PSection PPlainSection">Function OnVibrationEnd()</div></div>
  <div class="CBody"><p>Called when vibration end</p></div>
 </div>
 
-<a name="OnVibrationStrengthUpdate"></a><a name="Topic357"></a><div class="CTopic TFunction LPapyrus">
+<a name="OnVibrationStrengthUpdate"></a><a name="Topic359"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">OnVibrationStrengthUpdate</div>
- <div id="NDPrototype357" class="NDPrototype"><div class="PSection PPlainSection">Function OnVibrationStrengthUpdate()</div></div>
+ <div id="NDPrototype359" class="NDPrototype"><div class="PSection PPlainSection">Function OnVibrationStrengthUpdate()</div></div>
  <div class="CBody"><p>Called when vibration strength is changed with any of the API functions</p></div>
 </div>
 
-<a name="getVibOrgasmRate"></a><a name="Topic358"></a><div class="CTopic TFunction LPapyrus">
+<a name="getVibOrgasmRate"></a><a name="Topic360"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">getVibOrgasmRate</div>
- <div id="NDPrototype358" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">float</span> Function getVibOrgasmRate(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">float</span>&nbsp;</td><td class="PName">afMult</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1.0</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype360" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">float</span> Function getVibOrgasmRate(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first"><span class="SHKeyword">float</span>&nbsp;</td><td class="PName">afMult</td><td class="PDefaultValueSeparator">&nbsp;=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">1.0</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Can be edited to adjust orgasm rate calculation formula.</p><p>Default calculation formula is:</p><pre class="CCode"><span class="SHKeyword">return</span> CurrentVibStrength * afMult * UDCDmain.UD_VibrationMultiplier * UD_OrgasmMult</pre><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">afMult<div class="CDLParameterType"><span class="SHKeyword">float</span></div></td><td class="CDLDefinition"><p>Multiplier for returned orgasm rate</p></td></tr></table><div class="CHeading">Returns</div><p>Calculated orgasm rate</p></div>
 </div>
 
-<a name="getVibOrgasmRate(2)"></a><a name="Topic359"></a><div class="CTopic TFunction LPapyrus">
+<a name="getVibOrgasmRate(2)"></a><a name="Topic361"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">getVibOrgasmRate</div>
  <div class="CBody"><p>Can be edited to adjust arousal rate calculation formula.</p><p>Default calculation formula is:</p><pre class="CCode"><span class="SHKeyword">return</span> CurrentVibStrength * afMult * UDCDmain.UD_ArousalMultiplier * UD_ArousalMult</pre><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">afMult</td><td class="CDLDefinition"><p>Multiplier for returned arousal rate</p></td></tr></table><div class="CHeading">Returns</div><p>Calculated orgasm rate</p></div>
 </div>
 
-<a name="PrintVibMessage_Start"></a><a name="Topic360"></a><div class="CTopic TFunction LPapyrus">
+<a name="PrintVibMessage_Start"></a><a name="Topic362"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">PrintVibMessage_Start</div>
- <div id="NDPrototype360" class="NDPrototype"><div class="PSection PPlainSection">Function PrintVibMessage_Start()</div></div>
+ <div id="NDPrototype362" class="NDPrototype"><div class="PSection PPlainSection">Function PrintVibMessage_Start()</div></div>
  <div class="CBody"><p>Called when vibration starts. Used to show message (someones something start vibrating etc...)</p></div>
 </div>
 
-<a name="PrintVibMessage_Start(2)"></a><a name="Topic361"></a><div class="CTopic TFunction LPapyrus last">
+<a name="PrintVibMessage_Start(2)"></a><a name="Topic363"></a><div class="CTopic TFunction LPapyrus last">
  <div class="CTitle">PrintVibMessage_Start</div>
  <div class="CBody"><p>Called when vibration ends. Used to show message (someones something ends vibrating etc...)</p></div>
 </div>
