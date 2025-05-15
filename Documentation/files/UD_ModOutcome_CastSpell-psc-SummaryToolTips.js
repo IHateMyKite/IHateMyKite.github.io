@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModOutcome_CastSpell.psc",{416:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype416\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModOutcome_CastSpell <span class=\"SHKeyword\">extends</span> UD_ModOutcome</div></div><div class=\"TTSummary\">Casts a spell</div></div>"});

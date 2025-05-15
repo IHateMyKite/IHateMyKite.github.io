@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModOutcome_RemoveItem.psc","UD_ModOutcome_RemoveItem.psc");NDSummary.OnSummaryLoaded("File:UD_ModOutcome_RemoveItem.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[411,0,0,"UD_ModOutcome_RemoveItem","UD_ModOutcome_RemoveItem"],[412,0,1,"Overrides","Overrides"],[413,0,1,"User Interface","User_Interface"]]);

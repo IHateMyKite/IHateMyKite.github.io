@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModOutcome_Scene.psc",{399:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype399\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModOutcome_Scene <span class=\"SHKeyword\">extends</span> UD_ModOutcome</div></div><div class=\"TTSummary\">Plays scene</div></div>"});

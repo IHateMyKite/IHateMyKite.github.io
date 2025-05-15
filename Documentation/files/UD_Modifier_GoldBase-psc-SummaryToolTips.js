@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_Modifier_GoldBase.psc",{448:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype448\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">ScriptName UD_Modifier_GoldBase <span class=\"SHKeyword\">extends</span> UD_Modifier Hidden</div></div><div class=\"TTSummary\">Abstract class for gold-related modifiers</div></div>"});

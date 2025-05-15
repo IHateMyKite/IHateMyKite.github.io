@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModOutcome_AddGold.psc","UD_ModOutcome_AddGold.psc");NDSummary.OnSummaryLoaded("File:UD_ModOutcome_AddGold.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[429,0,0,"UD_ModOutcome_AddGold","UD_ModOutcome_AddGold"],[430,0,1,"Overrides","Overrides"],[431,0,1,"User Interface","User_Interface"]]);

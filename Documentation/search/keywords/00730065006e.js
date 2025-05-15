@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sen",["Function"],[["SendStartBoundEffectEvent",,[[,,,,0,"File:UDCustomDeviceMain.psc:SendStartBoundEffectEvent"]]]]);

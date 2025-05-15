@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModTrigger_Kill.psc","UD_ModTrigger_Kill.psc");NDSummary.OnSummaryLoaded("File:UD_ModTrigger_Kill.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[366,0,0,"UD_ModTrigger_Kill","UD_ModTrigger_Kill"],[367,0,1,"Events Processing","Events_Processing"],[368,0,1,"User interface","User_interface"]]);

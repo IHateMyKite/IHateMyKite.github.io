@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModOutcome_UnlockDevice.psc","UD_ModOutcome_UnlockDevice.psc");NDSummary.OnSummaryLoaded("File:UD_ModOutcome_UnlockDevice.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[396,0,0,"UD_ModOutcome_UnlockDevice","UD_ModOutcome_UnlockDevice"],[397,0,1,"Overrides","Overrides"],[398,0,1,"User Interface","User_Interface"]]);

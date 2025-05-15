@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("udo",["Variable"],[["UDOM",,[[,,,,0,"File:UD_API.psc:UDOM"]]],["UDOMNPC",,[[,,,,0,"File:UnforgivingDevicesMain.psc:UDOMNPC"]]],["UDOMPlayer",,[[,,,,0,"File:UD_API.psc:UDOMPlayer"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("udo",["Variable"],[["UDOM",,[[,,,,0,"File:UD_API.psc:UDOM"]]],["UDOMNPC",,[[,,,,0,"File:UnforgivingDevicesMain.psc:UDOMNPC"]]],["UDOMPlayer",,[[,,,,0,"File:UD_API.psc:UDOMPlayer"]]],["UDOTM",,[[,,,,0,"File:UnforgivingDevicesMain.psc:UDOTM"]]]]);

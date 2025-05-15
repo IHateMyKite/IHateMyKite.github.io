@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_Modifier_Destroy.psc","UD_Modifier_Destroy.psc");NDSummary.OnSummaryLoaded("File:UD_Modifier_Destroy.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[442,0,0,"UD_Modifier_Destroy","UD_Modifier_Destroy"],[443,0,1,"Events Processing","Events_Processing"]]);

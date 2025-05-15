@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_Modifier_Loose.psc","UD_Modifier_Loose.psc");NDSummary.OnSummaryLoaded("File:UD_Modifier_Loose.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[446,0,0,"UD_Modifier_Loose","UD_Modifier_Loose"],[447,0,1,"User Interface","User_Interface"]]);

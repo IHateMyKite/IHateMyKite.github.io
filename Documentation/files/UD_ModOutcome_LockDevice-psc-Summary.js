@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModOutcome_LockDevice.psc","UD_ModOutcome_LockDevice.psc");NDSummary.OnSummaryLoaded("File:UD_ModOutcome_LockDevice.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[414,0,0,"UD_ModOutcome_LockDevice","UD_ModOutcome_LockDevice"],[415,0,1,"User Interface","User_Interface"]]);

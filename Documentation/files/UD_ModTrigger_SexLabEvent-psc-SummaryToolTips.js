@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModTrigger_SexLabEvent.psc",{348:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype348\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModTrigger_SexLabEvent <span class=\"SHKeyword\">extends</span> UD_ModTrigger</div></div><div class=\"TTSummary\">It triggers on sex event</div></div>"});

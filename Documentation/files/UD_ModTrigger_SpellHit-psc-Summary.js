@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModTrigger_SpellHit.psc","UD_ModTrigger_SpellHit.psc");NDSummary.OnSummaryLoaded("File:UD_ModTrigger_SpellHit.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[342,0,0,"UD_ModTrigger_SpellHit","UD_ModTrigger_SpellHit"],[343,0,1,"Events Processing","Events_Processing"],[344,0,1,"User interface","User_interface"]]);

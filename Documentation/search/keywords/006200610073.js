@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bas",["Variable"],[["BaseProbability",,[[,,,,0,"File:UD_Patcher_ModPreset.psc:BaseProbability"]]],["BaseSeverity",,[[,,,,0,"File:UD_Patcher_ModPreset.psc:BaseSeverity"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_Modifier_GoldBase.psc","UD_Modifier_GoldBase.psc");NDSummary.OnSummaryLoaded("File:UD_Modifier_GoldBase.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[448,0,0,"UD_Modifier_GoldBase","UD_Modifier_GoldBase"],[449,0,1,"User Interface","User_Interface"],[450,0,1,"Protected Methods","Protected_Methods"]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_Outfit.psc","UD_Outfit.psc");NDSummary.OnSummaryLoaded("File:UD_Outfit.psc",[["Papyrus","Papyrus"]],[["Groups","Group"],["Variables","Variable"]],[[299,0,0,"Variables","Variables"],[300,0,1,"NameFull","NameFull"],[301,0,1,"NameAlias","NameAlias"],[302,0,1,"LockMessage","LockMessage"],[303,0,1,"Random","Random"],[304,0,1,"Swap","Swap"]]);

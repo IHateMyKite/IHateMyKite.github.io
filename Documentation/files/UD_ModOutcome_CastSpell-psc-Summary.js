@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModOutcome_CastSpell.psc","UD_ModOutcome_CastSpell.psc");NDSummary.OnSummaryLoaded("File:UD_ModOutcome_CastSpell.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[416,0,0,"UD_ModOutcome_CastSpell","UD_ModOutcome_CastSpell"],[417,0,1,"Overrides","Overrides"],[418,0,1,"User Interface","User_Interface"]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("fra",["Function"],[["fRange",,[[,,,,0,"File:UnforgivingDevicesMain.psc:fRange"]]]]);

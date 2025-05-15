@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModOutcome_Quest.psc",{402:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype402\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModOutcome_Quest <span class=\"SHKeyword\">extends</span> UD_ModOutcome</div></div><div class=\"TTSummary\">Starts quest and/or sets stage</div></div>"});

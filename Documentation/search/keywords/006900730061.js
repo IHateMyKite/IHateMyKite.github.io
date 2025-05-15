@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("isa",["Function"],[["IsAnimating",,[[,,,,0,"File:UD_AnimationManagerScript.psc:IsAnimating"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("isa",["Variable","Function"],[["IsAbsoluteProbability",,[[,,,,0,"File:UD_Patcher_ModPreset.psc:IsAbsoluteProbability"]]],["IsAnimating",,[[,,,,1,"File:UD_AnimationManagerScript.psc:IsAnimating"]]],["IsAnyMenuOpenRT",,[[,,,,1,"File:UnforgivingDevicesMain.psc:IsAnyMenuOpenRT"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModTrigger_PsWarrior.psc","UD_ModTrigger_PsWarrior.psc");NDSummary.OnSummaryLoaded("File:UD_ModTrigger_PsWarrior.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[363,0,0,"UD_ModTrigger_PsWarrior","UD_ModTrigger_PsWarrior"],[364,0,1,"Events Processing","Events_Processing"],[365,0,1,"User interface","User_interface"]]);

@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("mod",["Function"],[["ModInstalled",,[[,,,,0,"File:UnforgivingDevicesMain.psc:ModInstalled"]]],["ModInstalledAfterUD",,[[,,,,0,"File:UnforgivingDevicesMain.psc:ModInstalledAfterUD"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("mod",["Function"],[["ModifiersHaveTag",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:ModifiersHaveTag"]]],["ModInstalled",,[[,,,,0,"File:UnforgivingDevicesMain.psc:ModInstalled"]]],["ModInstalledAfterUD",,[[,,,,0,"File:UnforgivingDevicesMain.psc:ModInstalledAfterUD"]]]]);

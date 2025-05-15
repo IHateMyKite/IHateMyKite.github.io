@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModTrigger_PsThief.psc",{357:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype357\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModTrigger_PsThief <span class=\"SHKeyword\">extends</span> UD_ModTrigger</div></div><div class=\"TTSummary\">It triggers from thief play style</div></div>"});

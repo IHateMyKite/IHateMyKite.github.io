@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("cha",["Function"],[["ChangeSoulgemState",,[[,,,,0,"File:UDCustomDeviceMain.psc:ChangeSoulgemState"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("cha",["Function","Variable"],[["ChangeSoulgemState",,[[,,,,0,"File:UDCustomDeviceMain.psc:ChangeSoulgemState"]]],["CharsCTD",,[[,,,,1,"File:UD_MenuTextFormatter.psc:CharsCTD"]]],["CharsOnPage",,[[,,,,1,"File:UD_MenuTextFormatter.psc:CharsOnPage"]]]]);

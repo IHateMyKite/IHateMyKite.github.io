@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModTrigger_PsMage.psc",{354:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype354\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModTrigger_PsMage <span class=\"SHKeyword\">extends</span> UD_ModTrigger</div></div><div class=\"TTSummary\">It triggers from mage play style</div></div>"});

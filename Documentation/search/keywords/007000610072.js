@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("par",["Function"],[["Paragraph",,[[,,,,0,"File:UD_MenuTextFormatter.psc:Paragraph"]]],["ParagraphBegin",,[[,,,,0,"File:UD_MenuTextFormatter.psc:ParagraphBegin"]]],["ParagraphEnd",,[[,,,,0,"File:UD_MenuTextFormatter.psc:ParagraphEnd"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_Modifier_Destroy.psc",{442:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype442\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">ScriptName UD_Modifier_Destroy <span class=\"SHKeyword\">extends</span> UD_Modifier</div></div><div class=\"TTSummary\">This device will be destroyed on removal</div></div>"});

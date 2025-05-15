@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_Modifier_Sentient.psc","UD_Modifier_Sentient.psc");NDSummary.OnSummaryLoaded("File:UD_Modifier_Sentient.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[444,0,0,"UD_Modifier_Sentient","UD_Modifier_Sentient"],[445,0,1,"User Interface","User_Interface"]]);

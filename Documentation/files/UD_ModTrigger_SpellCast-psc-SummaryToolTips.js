@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModTrigger_SpellCast.psc",{339:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype339\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModTrigger_SpellCast <span class=\"SHKeyword\">extends</span> UD_ModTrigger</div></div><div class=\"TTSummary\">It triggers when actor casts a spell</div></div>"});

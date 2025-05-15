@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModTrigger_Kill.psc",{366:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype366\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModTrigger_Kill <span class=\"SHKeyword\">extends</span> UD_ModTrigger</div></div><div class=\"TTSummary\">Triggers on kill</div></div>"});

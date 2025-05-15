@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModOutcome_AddItem.psc","UD_ModOutcome_AddItem.psc");NDSummary.OnSummaryLoaded("File:UD_ModOutcome_AddItem.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[423,0,0,"UD_ModOutcome_AddItem","UD_ModOutcome_AddItem"],[424,0,1,"Overrides","Overrides"],[425,0,1,"User Interface","User_Interface"]]);

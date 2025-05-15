@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModuleBase.psc","UD_ModuleBase.psc");NDSummary.OnSummaryLoaded("File:UD_ModuleBase.psc",[["Papyrus","Papyrus"]],[["Files","File"]],[[322,0,0,"UD_ModuleBase","UD_ModuleBase"]]);

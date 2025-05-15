@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModOutcome_AddGold.psc",{429:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype429\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModOutcome_AddGold <span class=\"SHKeyword\">extends</span> UD_ModOutcome</div></div><div class=\"TTSummary\">Summons gold (or any other currency)</div></div>"});

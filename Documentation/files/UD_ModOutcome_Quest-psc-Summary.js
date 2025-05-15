@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModOutcome_Quest.psc","UD_ModOutcome_Quest.psc");NDSummary.OnSummaryLoaded("File:UD_ModOutcome_Quest.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[402,0,0,"UD_ModOutcome_Quest","UD_ModOutcome_Quest"],[403,0,1,"Overrides","Overrides"],[404,0,1,"User Interface","User_Interface"]]);

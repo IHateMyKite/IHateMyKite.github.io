@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModOutcome_AddItem.psc",{423:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype423\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModOutcome_AddItem <span class=\"SHKeyword\">extends</span> UD_ModOutcome</div></div><div class=\"TTSummary\">Adds item(s) to wearer inventory</div></div>"});

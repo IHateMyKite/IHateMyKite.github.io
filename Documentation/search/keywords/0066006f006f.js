@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("foo",["Function"],[["FooterSplit",,[[,,,,0,"File:UD_MenuTextFormatter.psc:FooterSplit"]]]]);

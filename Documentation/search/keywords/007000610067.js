@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pag",["Function"],[["PageFooter",,[[,,,,0,"File:UD_MenuTextFormatter.psc:PageFooter"]]],["PageSplit",,[[,,,,0,"File:UD_MenuTextFormatter.psc:PageSplit"]]]]);

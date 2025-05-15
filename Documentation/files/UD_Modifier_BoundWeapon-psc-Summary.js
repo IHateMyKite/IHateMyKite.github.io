@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_Modifier_BoundWeapon.psc","UD_Modifier_BoundWeapon.psc");NDSummary.OnSummaryLoaded("File:UD_Modifier_BoundWeapon.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[472,0,0,"UD_Modifier_BoundWeapon","UD_Modifier_BoundWeapon"],[473,0,1,"Events Processing","Events_Processing"],[474,0,1,"User Interface","User_Interface"]]);

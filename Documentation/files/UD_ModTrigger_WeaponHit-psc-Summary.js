@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModTrigger_WeaponHit.psc","UD_ModTrigger_WeaponHit.psc");NDSummary.OnSummaryLoaded("File:UD_ModTrigger_WeaponHit.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[323,0,0,"UD_ModTrigger_WeaponHit","UD_ModTrigger_WeaponHit"],[324,0,1,"Events Processing","Events_Processing"],[325,0,1,"User interface","User_interface"]]);

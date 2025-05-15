@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModTrigger_Condition.psc","UD_ModTrigger_Condition.psc");NDSummary.OnSummaryLoaded("File:UD_ModTrigger_Condition.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[372,0,0,"UD_ModTrigger_Condition","UD_ModTrigger_Condition"],[373,0,1,"Events Processing","Events_Processing"],[374,0,1,"User interface","User_interface"]]);

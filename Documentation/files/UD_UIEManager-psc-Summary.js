@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_UIEManager.psc","UD_UIEManager.psc");NDSummary.OnSummaryLoaded("File:UD_UIEManager.psc",[["Papyrus","Papyrus"]],[["Functions","Function"],["Groups","Group"]],[[1,0,1,"Functions","Functions"],[2,0,0,"GetUserTextInput","GetUserTextInput"],[3,0,0,"GetUserTextInput","GetUserTextInput(2)"],[4,0,0,"GetUserListInputEx","GetUserListInputEx"]]);

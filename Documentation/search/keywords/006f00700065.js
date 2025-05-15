@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("ope",["Function"],[["OpenHelpDeviceMenu",,[[,,,,0,"File:UDCustomDeviceMain.psc:OpenHelpDeviceMenu"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_Modifier_Demanding.psc","UD_Modifier_Demanding.psc");NDSummary.OnSummaryLoaded("File:UD_Modifier_Demanding.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[454,0,0,"UD_Modifier_Demanding","UD_Modifier_Demanding"],[455,0,1,"Events Processing","Events_Processing"],[456,0,1,"User interface","User_interface"]]);

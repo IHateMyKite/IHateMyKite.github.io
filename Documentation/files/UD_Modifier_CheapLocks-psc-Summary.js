@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_Modifier_CheapLocks.psc","UD_Modifier_CheapLocks.psc");NDSummary.OnSummaryLoaded("File:UD_Modifier_CheapLocks.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[469,0,0,"UD_Modifier_CheapLocks","UD_Modifier_CheapLocks"],[470,0,1,"Events Processing","Events_Processing"],[471,0,1,"User Interface","User_Interface"]]);

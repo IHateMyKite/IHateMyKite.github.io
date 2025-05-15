@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("per",["Function"],[["PercentToGrayscale",,[[,,,,0,"File:UD_MenuTextFormatter.psc:PercentToGrayscale"]]],["PercentToRainbow",,[[,,,,0,"File:UD_MenuTextFormatter.psc:PercentToRainbow"]]]]);

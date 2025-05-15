@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tex",["Function","Variable"],[["Text",,[[,,,,0,"File:UD_MenuTextFormatter.psc:Text"]]],["TextColorDefault",,[[,,,,1,"File:UD_MenuTextFormatter.psc:TextColorDefault"]]]]);

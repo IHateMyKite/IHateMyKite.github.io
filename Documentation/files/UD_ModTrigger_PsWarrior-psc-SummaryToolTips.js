@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModTrigger_PsWarrior.psc",{363:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype363\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModTrigger_PsWarrior <span class=\"SHKeyword\">extends</span> UD_ModTrigger</div></div><div class=\"TTSummary\">It triggers from warrior play style</div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("spl",["Function"],[["SplitMessageIntoPages",,[[,,,,0,"File:UD_MenuTextFormatter.psc:SplitMessageIntoPages"]]]]);

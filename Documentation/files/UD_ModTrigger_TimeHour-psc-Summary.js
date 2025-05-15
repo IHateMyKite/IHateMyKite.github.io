@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModTrigger_TimeHour.psc","UD_ModTrigger_TimeHour.psc");NDSummary.OnSummaryLoaded("File:UD_ModTrigger_TimeHour.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[329,0,0,"UD_ModTrigger_TimeHour","UD_ModTrigger_TimeHour"],[330,0,1,"Events Processing","Events_Processing"],[331,0,1,"User interface","User_interface"]]);

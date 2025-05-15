@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isf",["Function"],[["IsFollowingPlayer",,[[,,,,0,"File:UDCustomDeviceMain.psc:IsFollowingPlayer"]]]]);

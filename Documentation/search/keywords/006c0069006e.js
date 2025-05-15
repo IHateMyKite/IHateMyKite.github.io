@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lin",["Function","Variable"],[["LineBreak",,[[,,,,0,"File:UD_MenuTextFormatter.psc:LineBreak"]]],["LineGap",,[[,,,,0,"File:UD_MenuTextFormatter.psc:LineGap"]]],["LinesOnHTMLPage",,[[,,,,1,"File:UD_MenuTextFormatter.psc:LinesOnHTMLPage"]]],["LinesOnPage",,[[,,,,1,"File:UD_MenuTextFormatter.psc:LinesOnPage"]]]]);

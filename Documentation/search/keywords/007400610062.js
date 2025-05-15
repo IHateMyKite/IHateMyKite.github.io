@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tab",["Function"],[["TableBegin",,[[,,,,0,"File:UD_MenuTextFormatter.psc:TableBegin"]]],["TableEnd",,[[,,,,0,"File:UD_MenuTextFormatter.psc:TableEnd"]]],["TableRowDetails",,[[,,,,0,"File:UD_MenuTextFormatter.psc:TableRowDetails"]]],["TableRowWide",,[[,,,,0,"File:UD_MenuTextFormatter.psc:TableRowWide"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModTrigger_StatEvent.psc","UD_ModTrigger_StatEvent.psc");NDSummary.OnSummaryLoaded("File:UD_ModTrigger_StatEvent.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[336,0,0,"UD_ModTrigger_StatEvent","UD_ModTrigger_StatEvent"],[337,0,1,"Events Processing","Events_Processing"],[338,0,1,"User interface","User_interface"]]);

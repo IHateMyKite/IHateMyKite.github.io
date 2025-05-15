@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModTrigger_Sleep.psc","UD_ModTrigger_Sleep.psc");NDSummary.OnSummaryLoaded("File:UD_ModTrigger_Sleep.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[345,0,0,"UD_ModTrigger_Sleep","UD_ModTrigger_Sleep"],[346,0,1,"Events Processing","Events_Processing"],[347,0,1,"User interface","User_interface"]]);

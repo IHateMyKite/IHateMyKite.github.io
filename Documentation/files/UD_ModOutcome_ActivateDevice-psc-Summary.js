@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModOutcome_ActivateDevice.psc","UD_ModOutcome_ActivateDevice.psc");NDSummary.OnSummaryLoaded("File:UD_ModOutcome_ActivateDevice.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[432,0,0,"UD_ModOutcome_ActivateDevice","UD_ModOutcome_ActivateDevice"],[433,0,1,"User Interface","User_Interface"]]);

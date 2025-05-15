@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("boo",["Function"],[["BoolToGrayscale",,[[,,,,0,"File:UD_MenuTextFormatter.psc:BoolToGrayscale"]]],["BoolToRainbow",,[[,,,,0,"File:UD_MenuTextFormatter.psc:BoolToRainbow"]]]]);

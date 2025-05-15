@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModTrigger_Orgasm.psc","UD_ModTrigger_Orgasm.psc");NDSummary.OnSummaryLoaded("File:UD_ModTrigger_Orgasm.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[360,0,0,"UD_ModTrigger_Orgasm","UD_ModTrigger_Orgasm"],[361,0,1,"Events Processing","Events_Processing"],[362,0,1,"User interface","User_interface"]]);

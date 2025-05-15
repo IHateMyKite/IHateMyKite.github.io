@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModTrigger_PsThief.psc","UD_ModTrigger_PsThief.psc");NDSummary.OnSummaryLoaded("File:UD_ModTrigger_PsThief.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[357,0,0,"UD_ModTrigger_PsThief","UD_ModTrigger_PsThief"],[358,0,1,"Events Processing","Events_Processing"],[359,0,1,"User interface","User_interface"]]);

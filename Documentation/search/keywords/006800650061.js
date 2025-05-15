@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hea",["Function"],[["Header",,[[,,,,0,"File:UD_MenuTextFormatter.psc:Header"]]],["HeaderSplit",,[[,,,,0,"File:UD_MenuTextFormatter.psc:HeaderSplit"]]]]);

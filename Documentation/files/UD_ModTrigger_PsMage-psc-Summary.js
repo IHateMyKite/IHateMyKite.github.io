@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_ModTrigger_PsMage.psc","UD_ModTrigger_PsMage.psc");NDSummary.OnSummaryLoaded("File:UD_ModTrigger_PsMage.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[354,0,0,"UD_ModTrigger_PsMage","UD_ModTrigger_PsMage"],[355,0,1,"Events Processing","Events_Processing"],[356,0,1,"User interface","User_interface"]]);

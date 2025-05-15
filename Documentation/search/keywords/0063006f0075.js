@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cou",["Function"],[["CountSubstr",,[[,,,,0,"File:UD_MenuTextFormatter.psc:CountSubstr"]]]]);

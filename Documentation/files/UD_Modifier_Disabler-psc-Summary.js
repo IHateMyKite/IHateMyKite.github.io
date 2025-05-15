@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_Modifier_Disabler.psc","UD_Modifier_Disabler.psc");NDSummary.OnSummaryLoaded("File:UD_Modifier_Disabler.psc",[["Papyrus","Papyrus"]],[["Files","File"],["Groups","Group"]],[[451,0,0,"UD_Modifier_Disabler","UD_Modifier_Disabler"],[452,0,1,"Events Processing","Events_Processing"],[453,0,1,"User Interface","User_Interface"]]);

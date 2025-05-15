@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tri",["Function"],[["TriggerOnValueAbs",,[[,,,,0,"File:UD_ModTrigger.psc:TriggerOnValueAbs"]]],["TriggerOnValueDelta",,[[,,,,0,"File:UD_ModTrigger.psc:TriggerOnValueDelta"]]],["TrimSubstr",,[[,,,,0,"File:UD_MenuTextFormatter.psc:TrimSubstr"]]]]);

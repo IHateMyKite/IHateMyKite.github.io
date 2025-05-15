@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_Patcher_ModPreset1_CheapLocks.psc",{249:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype249\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_Patcher_ModPreset1_CheapLocks <span class=\"SHKeyword\">extends</span> UD_Patcher_ModPreset1</div></div></div>"});

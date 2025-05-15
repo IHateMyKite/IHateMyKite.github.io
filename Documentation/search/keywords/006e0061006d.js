@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nam",["Variable"],[["NameAlias",,[[,,,,0,"File:UD_Modifier.psc:NameAlias"]]],["NameFull",,[[,,,,0,"File:UD_Modifier.psc:NameFull"]]]]);

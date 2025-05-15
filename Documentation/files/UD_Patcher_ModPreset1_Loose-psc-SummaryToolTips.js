@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_Patcher_ModPreset1_Loose.psc",{256:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype256\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_Patcher_ModPreset1_Loose <span class=\"SHKeyword\">extends</span> UD_Patcher_ModPreset1</div></div></div>"});

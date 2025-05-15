@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fon",["Function","Variable"],[["FontBegin",,[[,,,,0,"File:UD_MenuTextFormatter.psc:FontBegin"]]],["FontEnd",,[[,,,,0,"File:UD_MenuTextFormatter.psc:FontEnd"]]],["FontSize",,[[,,,,1,"File:UD_MenuTextFormatter.psc:FontSize"]]]]);

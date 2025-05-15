@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("und",["Function"],[["UndressAllArmor",,[[,,,,0,"File:UDCustomDeviceMain.psc:UndressAllArmor"]]],["UndressArmor",,[[,,,,0,"File:UDCustomDeviceMain.psc:UndressArmor"]]],["UndressOutfit",,[[,,,,0,"File:UDCustomDeviceMain.psc:UndressOutfit"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("und",["Function"],[["UndressAllArmor",,[[,,,,0,"File:UDCustomDeviceMain.psc:UndressAllArmor"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModTrigger_Sleep.psc",{345:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype345\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModTrigger_Sleep <span class=\"SHKeyword\">extends</span> UD_ModTrigger</div></div><div class=\"TTSummary\">It triggers with a given chance after sleep</div></div>"});

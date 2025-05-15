@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("dec",["Function"],[["decodeBit",,[[,,,,0,"File:UnforgivingDevicesMain.psc:decodeBit"]]],["decreaseDurabilityAndCheckUnlock",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:decreaseDurabilityAndCheckUnlock"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("dec",["Function"],[["decreaseDurabilityAndCheckUnlock",,[[,,,,0,"File:UD_CustomDevice_RenderScript.psc:decreaseDurabilityAndCheckUnlock"]]]]);

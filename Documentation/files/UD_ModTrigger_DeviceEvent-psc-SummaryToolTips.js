@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModTrigger_DeviceEvent.psc",{382:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype382\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModTrigger_DeviceEvent <span class=\"SHKeyword\">extends</span> UD_ModTrigger</div></div><div class=\"TTSummary\">It triggers on device event(s)</div></div>"});

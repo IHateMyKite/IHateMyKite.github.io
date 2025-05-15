@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:UD_Patcher_ModPreset1.psc","UD_Patcher_ModPreset1.psc");NDSummary.OnSummaryLoaded("File:UD_Patcher_ModPreset1.psc",[["Papyrus","Papyrus"]],[["Files","File"]],[[255,0,0,"UD_Patcher_ModPreset1","UD_Patcher_ModPreset1"]]);

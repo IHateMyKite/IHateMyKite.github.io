@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModOutcome_LockDevice.psc",{414:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype414\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModOutcome_LockDevice <span class=\"SHKeyword\">extends</span> UD_ModOutcome</div></div><div class=\"TTSummary\">Summons more devices</div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:UD_ModOutcome_RemoveItem.psc",{411:"<div class=\"NDToolTip TFile LPapyrus\"><div id=\"NDPrototype411\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\">Scriptname UD_ModOutcome_RemoveItem <span class=\"SHKeyword\">extends</span> UD_ModOutcome</div></div><div class=\"TTSummary\">Removes item(s) from inventory</div></div>"});
