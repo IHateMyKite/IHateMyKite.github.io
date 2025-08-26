@@ -8,93 +8,93 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="UD_OrgasmManager"></a><a name="Topic305"></a><div class="CTopic TFile LPapyrus first">
+<a name="UD_OrgasmManager"></a><a name="Topic306"></a><div class="CTopic TFile LPapyrus first">
  <div class="CTitle">UD_OrgasmManager</div>
- <div id="NDPrototype305" class="NDPrototype"><div class="PSection PPlainSection">Scriptname UD_OrgasmManager <span class="SHKeyword">extends</span> Quest conditional</div></div>
+ <div id="NDPrototype306" class="NDPrototype"><div class="PSection PPlainSection">Scriptname UD_OrgasmManager <span class="SHKeyword">extends</span> Quest conditional</div></div>
  <div class="CBody"><p>Contains functions for manipulating orgasm related variables and other manipulation functions</p></div>
 </div>
 
-<a name="OrgasmFaction"></a><a name="Topic306"></a><div class="CTopic TVariable LPapyrus">
+<a name="OrgasmFaction"></a><a name="Topic307"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">OrgasmFaction</div>
- <div id="NDPrototype306" class="NDPrototype"><div class="PSection PPlainSection">Faction Property OrgasmFaction auto</div></div>
+ <div id="NDPrototype307" class="NDPrototype"><div class="PSection PPlainSection">Faction Property OrgasmFaction auto</div></div>
  <div class="CBody"><p>Faction to which will ba actor added for duration of orgasm</p><p>Do not edit, <b>READ ONLY!</b></p></div>
 </div>
 
-<a name="OrgasmResistFaction"></a><a name="Topic307"></a><div class="CTopic TVariable LPapyrus">
+<a name="OrgasmResistFaction"></a><a name="Topic308"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">OrgasmResistFaction</div>
- <div id="NDPrototype307" class="NDPrototype"><div class="PSection PPlainSection">Faction Property OrgasmResistFaction auto</div></div>
+ <div id="NDPrototype308" class="NDPrototype"><div class="PSection PPlainSection">Faction Property OrgasmResistFaction auto</div></div>
  <div class="CBody"><p>Faction to which will ba actor added if they are in resist orgasm minigame</p><p>Do not edit, <b>READ ONLY!</b></p></div>
 </div>
 
-<a name="Ready"></a><a name="Topic308"></a><div class="CTopic TVariable LPapyrus">
+<a name="Ready"></a><a name="Topic309"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">Ready</div>
- <div id="NDPrototype308" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Property Ready auto conditional</div></div>
+ <div id="NDPrototype309" class="NDPrototype"><div class="PSection PPlainSection"><span class="SHKeyword">bool</span> Property Ready auto conditional</div></div>
  <div class="CBody"><p>Will be toggled to True once script is ready</p><p>Do not edit, <b>READ ONLY!</b></p></div>
 </div>
 
-<a name="Arousal_values"></a><a name="Topic309"></a><div class="CTopic TGroup LPapyrus">
+<a name="Arousal_values"></a><a name="Topic310"></a><div class="CTopic TGroup LPapyrus">
  <div class="CTitle">Arousal values</div>
 </div>
 
-<a name="UpdateArousal"></a><a name="Topic310"></a><div class="CTopic TFunction LPapyrus">
+<a name="UpdateArousal"></a><a name="Topic311"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">UpdateArousal</div>
- <div id="NDPrototype310" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Int Function UpdateArousal(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor ,</td></tr><tr><td class="PType first"><span class="SHKeyword">float</span>&nbsp;</td><td class="PName last">aiDiff</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype311" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Int Function UpdateArousal(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor ,</td></tr><tr><td class="PType first"><span class="SHKeyword">float</span>&nbsp;</td><td class="PName last">aiDiff</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">akActor<div class="CDLParameterType">Actor</div></td><td class="CDLDefinition"><p>Actor whose arousal will be updated</p></td></tr><tr><td class="CDLEntry">aiDiff<div class="CDLParameterType"><span class="SHKeyword">float</span></div></td><td class="CDLDefinition"><p>By how much. Can be both positive and negative</p></td></tr></table><div class="CHeading">Returns</div><p>New values of arousal after update</p></div>
 </div>
 
-<a name="getArousal"></a><a name="Topic311"></a><div class="CTopic TFunction LPapyrus">
+<a name="getArousal"></a><a name="Topic312"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">getArousal</div>
- <div id="NDPrototype311" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">float</span> Function getArousal(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
- <div class="CBody"><p>Faster and more accurate version of <a href="../index.html#File:UD_OrgasmManager.psc:getActorArousal" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,312);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >getActorArousal</a> which uses faction.</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">akActor<div class="CDLParameterType">Actor</div></td><td class="CDLDefinition"><p>Actor whose arousal will be returned</p></td></tr></table><div class="CHeading">Returns</div><p>Current actor arousal</p></div>
+ <div id="NDPrototype312" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">float</span> Function getArousal(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div class="CBody"><p>Faster and more accurate version of <a href="../index.html#File:UD_OrgasmManager.psc:getActorArousal" target="_top" onmouseover="NDContentPage.OnLinkMouseOver(event,313);" onmouseout="NDContentPage.OnLinkMouseOut(event);" >getActorArousal</a> which uses faction.</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">akActor<div class="CDLParameterType">Actor</div></td><td class="CDLDefinition"><p>Actor whose arousal will be returned</p></td></tr></table><div class="CHeading">Returns</div><p>Current actor arousal</p></div>
 </div>
 
-<a name="getActorArousal"></a><a name="Topic312"></a><div class="CTopic TFunction LPapyrus">
+<a name="getActorArousal"></a><a name="Topic313"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">getActorArousal</div>
- <div id="NDPrototype312" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">int</span> Function getActorArousal(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype313" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">int</span> Function getActorArousal(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">akActor<div class="CDLParameterType">Actor</div></td><td class="CDLDefinition"><p>Actor whose arousal will be returned</p></td></tr></table><div class="CHeading">Returns</div><p>Current actor arousal</p></div>
 </div>
 
-<a name="Orgasm_values"></a><a name="Topic313"></a><div class="CTopic TGroup LPapyrus">
+<a name="Orgasm_values"></a><a name="Topic314"></a><div class="CTopic TGroup LPapyrus">
  <div class="CTitle">Orgasm values</div>
 </div>
 
-<a name="Orgasm"></a><a name="Topic314"></a><div class="CTopic TGroup LPapyrus">
+<a name="Orgasm"></a><a name="Topic315"></a><div class="CTopic TGroup LPapyrus">
  <div class="CTitle">Orgasm</div>
 </div>
 
-<a name="ActorCanOrgasm"></a><a name="Topic315"></a><div class="CTopic TFunction LPapyrus">
+<a name="ActorCanOrgasm"></a><a name="Topic316"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">ActorCanOrgasm</div>
- <div id="NDPrototype315" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">bool</span> Function ActorCanOrgasm(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype316" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">bool</span> Function ActorCanOrgasm(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Check if actor can orgasm with current orgasm values. This assumes full (100) arousal</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">akActor<div class="CDLParameterType">Actor</div></td><td class="CDLDefinition"><p>Actors who will be checked</p></td></tr></table><div class="CHeading">Returns</div><p>True if actor can orgasm</p></div>
 </div>
 
-<a name="ActorCanOrgasmHalf"></a><a name="Topic316"></a><div class="CTopic TFunction LPapyrus">
+<a name="ActorCanOrgasmHalf"></a><a name="Topic317"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">ActorCanOrgasmHalf</div>
- <div id="NDPrototype316" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">bool</span> Function ActorCanOrgasmHalf(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype317" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">bool</span> Function ActorCanOrgasmHalf(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Check if actor can orgasm with current orgasm values. This assumes half (50) arousal</p><p>Because its not linear, orgasm rate would need to be gigantic</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">akActor<div class="CDLParameterType">Actor</div></td><td class="CDLDefinition"><p>Actors who will be checked</p></td></tr></table><div class="CHeading">Returns</div><p>True if actor can orgasm</p></div>
 </div>
 
-<a name="isOrgasming"></a><a name="Topic317"></a><div class="CTopic TFunction LPapyrus">
+<a name="isOrgasming"></a><a name="Topic318"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">isOrgasming</div>
- <div id="NDPrototype317" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">bool</span> Function isOrgasming(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype318" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">bool</span> Function isOrgasming(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Check if actor is currently orgasming</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">akActor<div class="CDLParameterType">Actor</div></td><td class="CDLDefinition"><p>Actors who will be checked</p></td></tr></table><div class="CHeading">Returns</div><p>True if actor is orgasming</p></div>
 </div>
 
-<a name="PlayOrgasmAnimation"></a><a name="Topic318"></a><div class="CTopic TFunction LPapyrus">
+<a name="PlayOrgasmAnimation"></a><a name="Topic319"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">PlayOrgasmAnimation</div>
- <div id="NDPrototype318" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Int Function PlayOrgasmAnimation(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype319" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters">Int Function PlayOrgasmAnimation(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Plays orgasm animation for aiDuration</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">akActor<div class="CDLParameterType">Actor</div></td><td class="CDLDefinition"><p>Actors who will be used in animation</p></td></tr><tr><td class="CDLEntry">aiDuration</td><td class="CDLDefinition"><p>For how long to play the animation</p></td></tr></table><div class="CHeading">Returns</div><p>1 in case of sucess. 0 in case of failure</p></div>
 </div>
 
-<a name="GetOrgasmExhaustion"></a><a name="Topic319"></a><div class="CTopic TFunction LPapyrus">
+<a name="GetOrgasmExhaustion"></a><a name="Topic320"></a><div class="CTopic TFunction LPapyrus">
  <div class="CTitle">GetOrgasmExhaustion</div>
- <div id="NDPrototype319" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">int</span> Function GetOrgasmExhaustion(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype320" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">int</span> Function GetOrgasmExhaustion(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Get numer of orgasm exhaustions</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">akActor<div class="CDLParameterType">Actor</div></td><td class="CDLDefinition"><p>Checked actor</p></td></tr></table><div class="CHeading">Returns</div><p>Number of orgasm exhaustions actor currently have</p></div>
 </div>
 
-<a name="isOrgasmExhaustedMax"></a><a name="Topic320"></a><div class="CTopic TFunction LPapyrus last">
+<a name="isOrgasmExhaustedMax"></a><a name="Topic321"></a><div class="CTopic TFunction LPapyrus last">
  <div class="CTitle">isOrgasmExhaustedMax</div>
- <div id="NDPrototype320" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">bool</span> Function isOrgasmExhaustedMax(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
+ <div id="NDPrototype321" class="NDPrototype WideForm"><div class="PSection PParameterSection CStyle"><table><tr><td class="PBeforeParameters"><span class="SHKeyword">bool</span> Function isOrgasmExhaustedMax(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">Actor&nbsp;</td><td class="PName last">akActor</td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div></div>
  <div class="CBody"><p>Checks whether the number of orgasm exhaustions is over the configured limit</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">akActor<div class="CDLParameterType">Actor</div></td><td class="CDLDefinition"><p>Checked actor</p></td></tr></table><div class="CHeading">Returns</div><p>Whether this actor is over the limit (returns false if configured limit is 0)</p></div>
 </div>
 

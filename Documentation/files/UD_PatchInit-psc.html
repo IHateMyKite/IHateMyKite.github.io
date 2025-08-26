@@ -8,31 +8,31 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="UD_PatchInit"></a><a name="Topic250"></a><div class="CTopic TFile LPapyrus first">
+<a name="UD_PatchInit"></a><a name="Topic5"></a><div class="CTopic TFile LPapyrus first">
  <div class="CTitle">UD_PatchInit</div>
- <div id="NDPrototype250" class="NDPrototype"><div class="PSection PPlainSection">Scriptname UD_PatchInit <span class="SHKeyword">extends</span> Quest</div></div>
+ <div id="NDPrototype5" class="NDPrototype"><div class="PSection PPlainSection">Scriptname UD_PatchInit <span class="SHKeyword">extends</span> Quest</div></div>
  <div class="CBody"><p>Script used for initializing patches. Should be used on all patches to make loading safer. Also provide additional features like adding quest keyword and generic keys.</p><p>Extending this script with new screipt allow user to create new abadon suits.</p></div>
 </div>
 
-<a name="Important_properties"></a><a name="Topic251"></a><div class="CTopic TGroup LPapyrus">
+<a name="Important_properties"></a><a name="Topic6"></a><div class="CTopic TGroup LPapyrus">
  <div class="CTitle">Important properties</div>
 </div>
 
-<a name="UD_PatchSource"></a><a name="Topic252"></a><div class="CTopic TVariable LPapyrus">
+<a name="UD_PatchSource"></a><a name="Topic7"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">UD_PatchSource</div>
- <div id="NDPrototype252" class="NDPrototype"><div class="PSection PPlainSection">String Property UD_PatchSource = <span class="SHString">&quot;error&quot;</span> auto</div></div>
+ <div id="NDPrototype7" class="NDPrototype"><div class="PSection PPlainSection">String Property UD_PatchSource = <span class="SHString">&quot;error&quot;</span> auto</div></div>
  <div class="CBody"><p>Source of patch .esp. Need to have also extension. <b>Allways have to be filled!!</b></p><div class="CHeading">Example</div><p>If this script in on quest in the patch <b>UnforgivingDevices Some Patch.esp</b> then the UD_PatchSource will be <b>UnforgivingDevices Some Patch.esp</b></p></div>
 </div>
 
-<a name="UD_PatchName"></a><a name="Topic253"></a><div class="CTopic TVariable LPapyrus">
+<a name="UD_PatchName"></a><a name="Topic8"></a><div class="CTopic TVariable LPapyrus">
  <div class="CTitle">UD_PatchName</div>
- <div id="NDPrototype253" class="NDPrototype"><div class="PSection PPlainSection">String Property UD_PatchName = <span class="SHString">&quot;UnNamedPatch&quot;</span> auto</div></div>
+ <div id="NDPrototype8" class="NDPrototype"><div class="PSection PPlainSection">String Property UD_PatchName = <span class="SHString">&quot;UnNamedPatch&quot;</span> auto</div></div>
  <div class="CBody"><p>Name of the patch. This is only used in case of error, so user can know what patch have issue</p></div>
 </div>
 
-<a name="QuestKeywords"></a><a name="Topic254"></a><div class="CTopic TVariable LPapyrus last">
+<a name="QuestKeywords"></a><a name="Topic9"></a><div class="CTopic TVariable LPapyrus last">
  <div class="CTitle">QuestKeywords</div>
- <div id="NDPrototype254" class="NDPrototype"><div class="PSection PPlainSection">Keyword[] Property QuestKeywords auto</div></div>
+ <div id="NDPrototype9" class="NDPrototype"><div class="PSection PPlainSection">Keyword[] Property QuestKeywords auto</div></div>
  <div class="CBody"><p>Array of quest keywords which will be injected to main pool of quest keywords. All quest related ekywords from patched mod should be added there</p></div>
 </div>
 
